@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib" type="JAX-RS">
+    <CLASSES>
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/asm-3.1.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jackson-core-asl-1.9.2.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jackson-jaxrs-1.9.2.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jackson-mapper-asl-1.9.2.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jackson-xc-1.9.2.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jersey-client-1.17.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jersey-core-1.17.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jersey-json-1.17.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jersey-server-1.17.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jersey-servlet-1.17.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jettison-1.1.jar!/" />
+      <root url="jar://D:/Mes études/GLSID Troisième année/WebService/Support Web services/lib/lib/jsr311-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
